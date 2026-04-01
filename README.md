@@ -44,14 +44,6 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipaulogermano&show_icons=true&theme=tokyonight&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipaulogermano&layout=compact&theme=tokyonight&cache_seconds=3600"/>
-</p>
 
 ---
 
