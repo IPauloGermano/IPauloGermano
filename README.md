@@ -20,7 +20,7 @@
 
 ## 🧠 Currently Learning
 
-- Python, Java and Go
+- Python and Java
 - Docker
 - Programming Logic
 - Git and Version Control
