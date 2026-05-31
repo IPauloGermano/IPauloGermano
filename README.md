@@ -1,97 +1,97 @@
-<h1 align="center">Hi 👋, I'm Paulo Germano</h1>
-<h3 align="center">Backend Developer in Training |  Systems Analysis and Development student</h3>
-
-<p align="center">
+<h1 align="center">Hi 👋, I'm Paulo Germano</h1><h3 align="center">
+  Systems Analysis and Development Student | Aspiring Backend Developer
+</h3><p align="center">
   <a href="https://github.com/IPauloGermano">
-    <img src="https://komarev.com/ghpvc/?username=IPauloGermano&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=IPauloGermano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-</p>
+</p>---
+
+🚀 About Me
+
+🎓 Systems Analysis and Development student based in João Pessoa, Brazil
+💻 Aspiring Backend Developer with interest in Full Stack Development
+🐍 Currently learning Python, Java, SQL and programming fundamentals
+🧠 Interested in Software Engineering, Software Architecture and Applied AI
+🌱 Building practical projects to improve problem-solving, clean code and system design skills
 
 ---
 
-## 🚀 About Me
+🧠 Currently Learning
 
-🎓 Systems Analysis and Development student  
-🐍 Currently learning Python and programming fundamentals  
-💻 Interested in Backend Development and Software Engineering  
-🌱 Building projects to improve problem-solving and coding skills  
-
----
-
-## 🧠 Currently Learning
-
-- Python and Java
-- Docker
-- Programming Logic
-- Git and Version Control
-- Data Structures
-- Backend fundamentals
+- Python and programming fundamentals
+- Java and Object-Oriented Programming
+- SQL and database modeling
+- Git and version control
+- Docker and Linux basics
+- Backend development fundamentals
+- REST APIs and software engineering concepts
 
 ---
 
-## 🛠 Tech Stack
-
-</p>
-
+🛠 Tech Stack
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" />
+</p>---
 
-</p>
+🎯 Main Interests
 
+- Backend Development
+- Full Stack Development
+- REST APIs
+- Database Design
+- Software Engineering
+- Software Architecture
+- Clean Code
+- Applied Artificial Intelligence
+- Automation and Developer Tools
 
 ---
 
-## 🔥 Streak Stats
+🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IPauloGermano&theme=tokyonight" alt="GitHub Streak" />
+</p>---
 
-<img src="https://streak-stats.demolab.com/?user=IPauloGermano&theme=tokyonight" />
-
-</p>
-
----
-
-## 📌 Goals
+📌 Goals
 
 - Become a Backend Developer
-- Build real-world projects
+- Build real-world software projects
+- Improve problem-solving and coding skills
+- Learn software architecture and scalable systems
 - Contribute to open source
-- Continuously improve coding skills
+- Grow through consistency, practice and continuous learning
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 
-Here are some projects I'm currently working on while learning programming.
+Here are some projects I'm working on while improving my programming and software development skills:
 
-- CLI tools in Python
+- Python CLI tools
 - Automation scripts
 - Logic-based games
 - Beginner backend experiments
+- Database modeling exercises
+- REST API studies
 
 ---
 
-## 🌎 Connect with Me
+🌎 Connect with Me
 
 <p align="left">
+  <a href="https://github.com/IPauloGermano">
+    <img src="https://img.shields.io/badge/GitHub-IPauloGermano-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>  <a href="https://www.linkedin.com/in/paulo-germano-9798a73a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Germano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>---
 
-<a href="https://github.com/IPauloGermano">
-<img src="https://img.shields.io/badge/GitHub-IPauloGermano-181717?style=for-the-badge&logo=github"/>
-</a>
+⚡ Philosophy
 
-<a href="https://www.linkedin.com/in/paulo-germano-9798a73a8/">
-<img src="https://img.shields.io/badge/LinkedIn-Paulo%20Germano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Philosophy
-
-> “Consistency beats talent when talent doesn’t work hard.”
+«“Consistency beats talent when talent doesn’t work hard.”»
