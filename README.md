@@ -4,7 +4,8 @@
   <a href="https://github.com/IPauloGermano">
     <img src="https://komarev.com/ghpvc/?username=IPauloGermano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-</p>---
+</p>
+---
 
 🚀 About Me
 
